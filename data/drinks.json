@@ -1,0 +1,33 @@
+{
+    "docs": [
+      {
+        "_id": "drink1",
+        "type": "drink",
+        "name": "Mojito",
+        "category": "cocktail",
+        "price": 10
+      },
+      {
+        "_id": "drink2",
+        "type": "drink",
+        "name": "Bière blonde",
+        "category": "bière",
+        "price": 6
+      },
+      {
+        "_id": "drink3",
+        "type": "drink",
+        "name": "Vodka Redbull",
+        "category": "cocktail",
+        "price": 12
+      },
+      {
+        "_id": "drink4",
+        "type": "drink",
+        "name": "Whisky Coca",
+        "category": "cocktail",
+        "price": 11
+      }
+    ]
+  }
+  

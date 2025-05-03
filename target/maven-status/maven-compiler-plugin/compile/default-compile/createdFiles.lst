@@ -1,0 +1,17 @@
+com\boite\CRUD\OrderRepository.class
+com\boite\CRUD\ClientRepository.class
+com\boite\Main.class
+com\boite\model\Event.class
+com\boite\CRUD\EventRepository.class
+com\boite\model\Locker.class
+com\boite\service\NightClubService.class
+com\boite\model\Order.class
+com\boite\model\Employee.class
+com\boite\model\Table.class
+com\boite\CRUD\ReservationRepository.class
+com\boite\model\Client.class
+com\boite\model\Drink.class
+com\boite\model\Reservation.class
+com\boite\CRUD\EmployeeRepository.class
+com\boite\db\DesignDocBuilder.class
+com\boite\db\CouchDBClient.class

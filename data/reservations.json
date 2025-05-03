@@ -1,0 +1,29 @@
+{
+    "docs": [
+      {
+        "_id": "res1",
+        "type": "reservation",
+        "clientId": "client1",
+        "tableId": "table1",
+        "eventId": "event1",
+        "date": "2025/05/02"
+      },
+      {
+        "_id": "res2",
+        "type": "reservation",
+        "clientId": "client2",
+        "tableId": "table2",
+        "eventId": "event2",
+        "date": "2025/05/03"
+      },
+      {
+        "_id": "res3",
+        "type": "reservation",
+        "clientId": "client3",
+        "tableId": "table3",
+        "eventId": "event1",
+        "date": "2025/05/04"
+      }
+    ]
+  }
+  
