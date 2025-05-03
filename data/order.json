@@ -1,0 +1,1706 @@
+{
+  "docs": [
+    {
+      "_id": "order1",
+      "type": "order",
+      "clientId": "956460084",
+      "employeeId": "182801953",
+      "drinksId": [
+        "228434336",
+        "698300788",
+        "698128595",
+        "228434336"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order2",
+      "type": "order",
+      "clientId": "20362164",
+      "employeeId": "675547247",
+      "drinksId": [
+        "469435304",
+        "643062040",
+        "19501749"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order3",
+      "type": "order",
+      "clientId": "8628367",
+      "employeeId": "893340407",
+      "drinksId": [
+        "135944551"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order4",
+      "type": "order",
+      "clientId": "20623813",
+      "employeeId": "350368616",
+      "drinksId": [
+        "469435304",
+        "82583939"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order5",
+      "type": "order",
+      "clientId": "827113045",
+      "employeeId": "676944782",
+      "drinksId": [
+        "458895667",
+        "313371262"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order6",
+      "type": "order",
+      "clientId": "913450813",
+      "employeeId": "675547247",
+      "drinksId": [
+        "231060709",
+        "901778792",
+        "621444653"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order7",
+      "type": "order",
+      "clientId": "20362164",
+      "employeeId": "350368616",
+      "drinksId": [
+        "1085898"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order8",
+      "type": "order",
+      "clientId": "235686700",
+      "employeeId": "534791626",
+      "drinksId": [
+        "298853715",
+        "669679528"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order9",
+      "type": "order",
+      "clientId": "383487684",
+      "employeeId": "893340407",
+      "drinksId": [
+        "698300788",
+        "231060709",
+        "469435304"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order10",
+      "type": "order",
+      "clientId": "309309041",
+      "employeeId": "893340407",
+      "drinksId": [
+        "298853715",
+        "489670579",
+        "469435304",
+        "82583939"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order11",
+      "type": "order",
+      "clientId": "8628367",
+      "employeeId": "182801953",
+      "drinksId": [
+        "469435304"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order12",
+      "type": "order",
+      "clientId": "456010938",
+      "employeeId": "609556746",
+      "drinksId": [
+        "369077955"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order13",
+      "type": "order",
+      "clientId": "20623813",
+      "employeeId": "893340407",
+      "drinksId": [
+        "19501749",
+        "944150467",
+        "944150467"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order14",
+      "type": "order",
+      "clientId": "837464033",
+      "employeeId": "676944782",
+      "drinksId": [
+        "231060709",
+        "390556526"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order15",
+      "type": "order",
+      "clientId": "252506217",
+      "employeeId": "609556746",
+      "drinksId": [
+        "502412910",
+        "930031527",
+        "82583939"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order16",
+      "type": "order",
+      "clientId": "837464033",
+      "employeeId": "893340407",
+      "drinksId": [
+        "19501749",
+        "458895667",
+        "930031527"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order17",
+      "type": "order",
+      "clientId": "464963175",
+      "employeeId": "350368616",
+      "drinksId": [
+        "19501749",
+        "489670579",
+        "469435304"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order18",
+      "type": "order",
+      "clientId": "20362164",
+      "employeeId": "695994254",
+      "drinksId": [
+        "621444653",
+        "930031527",
+        "19501749"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order19",
+      "type": "order",
+      "clientId": "315496694",
+      "employeeId": "676944782",
+      "drinksId": [
+        "19501749",
+        "706430157",
+        "669679528",
+        "944150467"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order20",
+      "type": "order",
+      "clientId": "708686733",
+      "employeeId": "695994254",
+      "drinksId": [
+        "1085898"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order21",
+      "type": "order",
+      "clientId": "913450813",
+      "employeeId": "534791626",
+      "drinksId": [
+        "729278242",
+        "669679528",
+        "502412910"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order22",
+      "type": "order",
+      "clientId": "505687536",
+      "employeeId": "350368616",
+      "drinksId": [
+        "333365835",
+        "19501749",
+        "669679528",
+        "901778792"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order23",
+      "type": "order",
+      "clientId": "602148656",
+      "employeeId": "676944782",
+      "drinksId": [
+        "231060709",
+        "82583939",
+        "621444653"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order24",
+      "type": "order",
+      "clientId": "921112166",
+      "employeeId": "350368616",
+      "drinksId": [
+        "698300788",
+        "469435304",
+        "313371262"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order25",
+      "type": "order",
+      "clientId": "956460084",
+      "employeeId": "609556746",
+      "drinksId": [
+        "1085898"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order26",
+      "type": "order",
+      "clientId": "830596212",
+      "employeeId": "695994254",
+      "drinksId": [
+        "930031527",
+        "729278242",
+        "329297209"
+      ],
+      "date": "2025/05/03"
+    },
+    {
+      "_id": "order27",
+      "type": "order",
+      "clientId": "237711768",
+      "employeeId": "695994254",
+      "drinksId": [
+        "458895667",
+        "643062040"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order28",
+      "type": "order",
+      "clientId": "602148656",
+      "employeeId": "893340407",
+      "drinksId": [
+        "901778792"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order29",
+      "type": "order",
+      "clientId": "10049164",
+      "employeeId": "350368616",
+      "drinksId": [
+        "621444653"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order30",
+      "type": "order",
+      "clientId": "18246398",
+      "employeeId": "350368616",
+      "drinksId": [
+        "390556526",
+        "901778792",
+        "469435304",
+        "369077955"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order31",
+      "type": "order",
+      "clientId": "16943042",
+      "employeeId": "182801953",
+      "drinksId": [
+        "469435304",
+        "369077955"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order32",
+      "type": "order",
+      "clientId": "830596212",
+      "employeeId": "350368616",
+      "drinksId": [
+        "621444653",
+        "329297209",
+        "930031527"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order33",
+      "type": "order",
+      "clientId": "8628367",
+      "employeeId": "182801953",
+      "drinksId": [
+        "491139768",
+        "135944551",
+        "729278242"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order34",
+      "type": "order",
+      "clientId": "252506217",
+      "employeeId": "182801953",
+      "drinksId": [
+        "333365835",
+        "643062040"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order35",
+      "type": "order",
+      "clientId": "708686733",
+      "employeeId": "534791626",
+      "drinksId": [
+        "21727080"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order36",
+      "type": "order",
+      "clientId": "309309041",
+      "employeeId": "675547247",
+      "drinksId": [
+        "469435304",
+        "333365835",
+        "643062040"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order37",
+      "type": "order",
+      "clientId": "311026177",
+      "employeeId": "676944782",
+      "drinksId": [
+        "19501749",
+        "502412910"
+      ],
+      "date": "2025/05/03"
+    },
+    {
+      "_id": "order38",
+      "type": "order",
+      "clientId": "913450813",
+      "employeeId": "675547247",
+      "drinksId": [
+        "944150467"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order39",
+      "type": "order",
+      "clientId": "8628367",
+      "employeeId": "350368616",
+      "drinksId": [
+        "698128595",
+        "491139768",
+        "21727080",
+        "1085898"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order40",
+      "type": "order",
+      "clientId": "315496694",
+      "employeeId": "182801953",
+      "drinksId": [
+        "502412910"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order41",
+      "type": "order",
+      "clientId": "309309041",
+      "employeeId": "534791626",
+      "drinksId": [
+        "698128595",
+        "390556526",
+        "458895667",
+        "21727080"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order42",
+      "type": "order",
+      "clientId": "254594344",
+      "employeeId": "691610631",
+      "drinksId": [
+        "19501749",
+        "729278242"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order43",
+      "type": "order",
+      "clientId": "921112166",
+      "employeeId": "893340407",
+      "drinksId": [
+        "1085898",
+        "944150467",
+        "489670579"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order44",
+      "type": "order",
+      "clientId": "939222039",
+      "employeeId": "676944782",
+      "drinksId": [
+        "298853715",
+        "643062040"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order45",
+      "type": "order",
+      "clientId": "73876848",
+      "employeeId": "534791626",
+      "drinksId": [
+        "228434336"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order46",
+      "type": "order",
+      "clientId": "609599813",
+      "employeeId": "893340407",
+      "drinksId": [
+        "729278242"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order47",
+      "type": "order",
+      "clientId": "10049164",
+      "employeeId": "909040899",
+      "drinksId": [
+        "698128595",
+        "82583939",
+        "135944551"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order48",
+      "type": "order",
+      "clientId": "547164666",
+      "employeeId": "893340407",
+      "drinksId": [
+        "491139768"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order49",
+      "type": "order",
+      "clientId": "587048636",
+      "employeeId": "691610631",
+      "drinksId": [
+        "669679528",
+        "228434336",
+        "706430157",
+        "228434336"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order50",
+      "type": "order",
+      "clientId": "587048636",
+      "employeeId": "691610631",
+      "drinksId": [
+        "333365835"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order51",
+      "type": "order",
+      "clientId": "956460084",
+      "employeeId": "695994254",
+      "drinksId": [
+        "313371262"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order52",
+      "type": "order",
+      "clientId": "921112166",
+      "employeeId": "534791626",
+      "drinksId": [
+        "390556526",
+        "621444653",
+        "82583939",
+        "82583939"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order53",
+      "type": "order",
+      "clientId": "958926781",
+      "employeeId": "676944782",
+      "drinksId": [
+        "313371262",
+        "469435304"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order54",
+      "type": "order",
+      "clientId": "297021322",
+      "employeeId": "893340407",
+      "drinksId": [
+        "698128595",
+        "329297209",
+        "390556526"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order55",
+      "type": "order",
+      "clientId": "708686733",
+      "employeeId": "350368616",
+      "drinksId": [
+        "930031527",
+        "469435304",
+        "329297209"
+      ],
+      "date": "2025/05/03"
+    },
+    {
+      "_id": "order56",
+      "type": "order",
+      "clientId": "639959420",
+      "employeeId": "182801953",
+      "drinksId": [
+        "643062040"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order57",
+      "type": "order",
+      "clientId": "664644581",
+      "employeeId": "182801953",
+      "drinksId": [
+        "469435304",
+        "669679528"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order58",
+      "type": "order",
+      "clientId": "776992635",
+      "employeeId": "675547247",
+      "drinksId": [
+        "231060709",
+        "944150467"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order59",
+      "type": "order",
+      "clientId": "609599813",
+      "employeeId": "695994254",
+      "drinksId": [
+        "390556526",
+        "19501749",
+        "669679528",
+        "621444653"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order60",
+      "type": "order",
+      "clientId": "908079404",
+      "employeeId": "893340407",
+      "drinksId": [
+        "390556526",
+        "231060709"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order61",
+      "type": "order",
+      "clientId": "464963175",
+      "employeeId": "676944782",
+      "drinksId": [
+        "458895667",
+        "369077955",
+        "298853715",
+        "669679528"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order62",
+      "type": "order",
+      "clientId": "315496694",
+      "employeeId": "676944782",
+      "drinksId": [
+        "329297209",
+        "621444653",
+        "390556526",
+        "19501749"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order63",
+      "type": "order",
+      "clientId": "871913726",
+      "employeeId": "695994254",
+      "drinksId": [
+        "21727080",
+        "329297209",
+        "502412910"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order64",
+      "type": "order",
+      "clientId": "639959420",
+      "employeeId": "691610631",
+      "drinksId": [
+        "21727080",
+        "390556526",
+        "502412910"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order65",
+      "type": "order",
+      "clientId": "18246398",
+      "employeeId": "182801953",
+      "drinksId": [
+        "19501749",
+        "901778792"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order66",
+      "type": "order",
+      "clientId": "921112166",
+      "employeeId": "182801953",
+      "drinksId": [
+        "469435304",
+        "489670579"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order67",
+      "type": "order",
+      "clientId": "10049164",
+      "employeeId": "350368616",
+      "drinksId": [
+        "930031527",
+        "333365835",
+        "82583939",
+        "298853715"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order68",
+      "type": "order",
+      "clientId": "503739601",
+      "employeeId": "182801953",
+      "drinksId": [
+        "390556526",
+        "502412910"
+      ],
+      "date": "2025/05/03"
+    },
+    {
+      "_id": "order69",
+      "type": "order",
+      "clientId": "602296231",
+      "employeeId": "695994254",
+      "drinksId": [
+        "19501749",
+        "231060709"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order70",
+      "type": "order",
+      "clientId": "708686733",
+      "employeeId": "691610631",
+      "drinksId": [
+        "313371262",
+        "491139768",
+        "729278242",
+        "669679528"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order71",
+      "type": "order",
+      "clientId": "602148656",
+      "employeeId": "909040899",
+      "drinksId": [
+        "369077955",
+        "621444653",
+        "135944551"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order72",
+      "type": "order",
+      "clientId": "828815451",
+      "employeeId": "893340407",
+      "drinksId": [
+        "333365835",
+        "135944551"
+      ],
+      "date": "2025/05/03"
+    },
+    {
+      "_id": "order73",
+      "type": "order",
+      "clientId": "235686700",
+      "employeeId": "691610631",
+      "drinksId": [
+        "944150467",
+        "21727080"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order74",
+      "type": "order",
+      "clientId": "602296231",
+      "employeeId": "182801953",
+      "drinksId": [
+        "698128595",
+        "469435304",
+        "298853715"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order75",
+      "type": "order",
+      "clientId": "237711768",
+      "employeeId": "350368616",
+      "drinksId": [
+        "930031527",
+        "19501749",
+        "502412910"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order76",
+      "type": "order",
+      "clientId": "10049164",
+      "employeeId": "691610631",
+      "drinksId": [
+        "231060709",
+        "390556526"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order77",
+      "type": "order",
+      "clientId": "830596212",
+      "employeeId": "350368616",
+      "drinksId": [
+        "390556526",
+        "669679528"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order78",
+      "type": "order",
+      "clientId": "20362164",
+      "employeeId": "695994254",
+      "drinksId": [
+        "298853715",
+        "706430157",
+        "82583939"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order79",
+      "type": "order",
+      "clientId": "235686700",
+      "employeeId": "350368616",
+      "drinksId": [
+        "502412910"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order80",
+      "type": "order",
+      "clientId": "456010938",
+      "employeeId": "909040899",
+      "drinksId": [
+        "669679528",
+        "502412910",
+        "329297209",
+        "333365835"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order81",
+      "type": "order",
+      "clientId": "254594344",
+      "employeeId": "893340407",
+      "drinksId": [
+        "458895667",
+        "298853715",
+        "329297209",
+        "706430157"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order82",
+      "type": "order",
+      "clientId": "664644581",
+      "employeeId": "182801953",
+      "drinksId": [
+        "19501749",
+        "19501749",
+        "228434336",
+        "502412910"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order83",
+      "type": "order",
+      "clientId": "828815451",
+      "employeeId": "691610631",
+      "drinksId": [
+        "19501749"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order84",
+      "type": "order",
+      "clientId": "830596212",
+      "employeeId": "675547247",
+      "drinksId": [
+        "706430157"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order85",
+      "type": "order",
+      "clientId": "16943042",
+      "employeeId": "695994254",
+      "drinksId": [
+        "489670579"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order86",
+      "type": "order",
+      "clientId": "708686733",
+      "employeeId": "691610631",
+      "drinksId": [
+        "489670579",
+        "135944551"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order87",
+      "type": "order",
+      "clientId": "10049164",
+      "employeeId": "675547247",
+      "drinksId": [
+        "1085898"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order88",
+      "type": "order",
+      "clientId": "456010938",
+      "employeeId": "350368616",
+      "drinksId": [
+        "643062040",
+        "502412910",
+        "489670579"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order89",
+      "type": "order",
+      "clientId": "921112166",
+      "employeeId": "675547247",
+      "drinksId": [
+        "21727080"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order90",
+      "type": "order",
+      "clientId": "602148656",
+      "employeeId": "676944782",
+      "drinksId": [
+        "135944551"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order91",
+      "type": "order",
+      "clientId": "315496694",
+      "employeeId": "676944782",
+      "drinksId": [
+        "901778792",
+        "901778792",
+        "469435304"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order92",
+      "type": "order",
+      "clientId": "607292725",
+      "employeeId": "893340407",
+      "drinksId": [
+        "135944551",
+        "469435304"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order93",
+      "type": "order",
+      "clientId": "837464033",
+      "employeeId": "695994254",
+      "drinksId": [
+        "298853715",
+        "469435304",
+        "228434336",
+        "228434336"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order94",
+      "type": "order",
+      "clientId": "837464033",
+      "employeeId": "893340407",
+      "drinksId": [
+        "458895667",
+        "469435304",
+        "944150467"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order95",
+      "type": "order",
+      "clientId": "80744373",
+      "employeeId": "695994254",
+      "drinksId": [
+        "491139768",
+        "491139768"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order96",
+      "type": "order",
+      "clientId": "921112166",
+      "employeeId": "182801953",
+      "drinksId": [
+        "901778792",
+        "669679528"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order97",
+      "type": "order",
+      "clientId": "383487684",
+      "employeeId": "182801953",
+      "drinksId": [
+        "313371262",
+        "313371262"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order98",
+      "type": "order",
+      "clientId": "20623813",
+      "employeeId": "691610631",
+      "drinksId": [
+        "729278242"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order99",
+      "type": "order",
+      "clientId": "607292725",
+      "employeeId": "691610631",
+      "drinksId": [
+        "298853715"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order100",
+      "type": "order",
+      "clientId": "297021322",
+      "employeeId": "675547247",
+      "drinksId": [
+        "698300788"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order101",
+      "type": "order",
+      "clientId": "17117112",
+      "employeeId": "675547247",
+      "drinksId": [
+        "469435304",
+        "333365835",
+        "698128595",
+        "298853715"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order102",
+      "type": "order",
+      "clientId": "80744373",
+      "employeeId": "609556746",
+      "drinksId": [
+        "469435304",
+        "298853715"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order103",
+      "type": "order",
+      "clientId": "547164666",
+      "employeeId": "695994254",
+      "drinksId": [
+        "698300788",
+        "502412910",
+        "698300788"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order104",
+      "type": "order",
+      "clientId": "602148656",
+      "employeeId": "676944782",
+      "drinksId": [
+        "621444653",
+        "298853715"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order105",
+      "type": "order",
+      "clientId": "828815451",
+      "employeeId": "350368616",
+      "drinksId": [
+        "135944551"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order106",
+      "type": "order",
+      "clientId": "20623813",
+      "employeeId": "182801953",
+      "drinksId": [
+        "930031527",
+        "491139768",
+        "502412910"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order107",
+      "type": "order",
+      "clientId": "871913726",
+      "employeeId": "893340407",
+      "drinksId": [
+        "329297209"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order108",
+      "type": "order",
+      "clientId": "309309041",
+      "employeeId": "676944782",
+      "drinksId": [
+        "1085898",
+        "643062040",
+        "298853715"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order109",
+      "type": "order",
+      "clientId": "958926781",
+      "employeeId": "691610631",
+      "drinksId": [
+        "643062040"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order110",
+      "type": "order",
+      "clientId": "812020167",
+      "employeeId": "534791626",
+      "drinksId": [
+        "313371262"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order111",
+      "type": "order",
+      "clientId": "708686733",
+      "employeeId": "691610631",
+      "drinksId": [
+        "901778792"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order112",
+      "type": "order",
+      "clientId": "297021322",
+      "employeeId": "675547247",
+      "drinksId": [
+        "458895667"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order113",
+      "type": "order",
+      "clientId": "958926781",
+      "employeeId": "893340407",
+      "drinksId": [
+        "698300788"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order114",
+      "type": "order",
+      "clientId": "73876848",
+      "employeeId": "675547247",
+      "drinksId": [
+        "901778792",
+        "82583939"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order115",
+      "type": "order",
+      "clientId": "858935249",
+      "employeeId": "675547247",
+      "drinksId": [
+        "228434336",
+        "231060709",
+        "82583939"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order116",
+      "type": "order",
+      "clientId": "609599813",
+      "employeeId": "609556746",
+      "drinksId": [
+        "21727080",
+        "491139768"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order117",
+      "type": "order",
+      "clientId": "837464033",
+      "employeeId": "609556746",
+      "drinksId": [
+        "313371262",
+        "458895667",
+        "390556526"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order118",
+      "type": "order",
+      "clientId": "827113045",
+      "employeeId": "909040899",
+      "drinksId": [
+        "231060709"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order119",
+      "type": "order",
+      "clientId": "237711768",
+      "employeeId": "893340407",
+      "drinksId": [
+        "329297209",
+        "469435304",
+        "329297209",
+        "621444653"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order120",
+      "type": "order",
+      "clientId": "812020167",
+      "employeeId": "676944782",
+      "drinksId": [
+        "333365835"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order121",
+      "type": "order",
+      "clientId": "44843967",
+      "employeeId": "182801953",
+      "drinksId": [
+        "231060709"
+      ],
+      "date": "2025/05/03"
+    },
+    {
+      "_id": "order122",
+      "type": "order",
+      "clientId": "252506217",
+      "employeeId": "909040899",
+      "drinksId": [
+        "502412910",
+        "489670579",
+        "329297209"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order123",
+      "type": "order",
+      "clientId": "602148656",
+      "employeeId": "534791626",
+      "drinksId": [
+        "706430157"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order124",
+      "type": "order",
+      "clientId": "907287404",
+      "employeeId": "676944782",
+      "drinksId": [
+        "1085898",
+        "458895667"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order125",
+      "type": "order",
+      "clientId": "619862088",
+      "employeeId": "695994254",
+      "drinksId": [
+        "82583939",
+        "1085898",
+        "135944551",
+        "698300788"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order126",
+      "type": "order",
+      "clientId": "20362164",
+      "employeeId": "695994254",
+      "drinksId": [
+        "491139768",
+        "469435304",
+        "329297209",
+        "298853715"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order127",
+      "type": "order",
+      "clientId": "956460084",
+      "employeeId": "675547247",
+      "drinksId": [
+        "669679528",
+        "669679528",
+        "369077955",
+        "19501749"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order128",
+      "type": "order",
+      "clientId": "18246398",
+      "employeeId": "909040899",
+      "drinksId": [
+        "1085898",
+        "621444653",
+        "698128595"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order129",
+      "type": "order",
+      "clientId": "907287404",
+      "employeeId": "893340407",
+      "drinksId": [
+        "944150467",
+        "82583939",
+        "944150467"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order130",
+      "type": "order",
+      "clientId": "828815451",
+      "employeeId": "534791626",
+      "drinksId": [
+        "458895667"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order131",
+      "type": "order",
+      "clientId": "20362164",
+      "employeeId": "893340407",
+      "drinksId": [
+        "729278242"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order132",
+      "type": "order",
+      "clientId": "708686733",
+      "employeeId": "534791626",
+      "drinksId": [
+        "502412910",
+        "491139768"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order133",
+      "type": "order",
+      "clientId": "254594344",
+      "employeeId": "676944782",
+      "drinksId": [
+        "369077955"
+      ],
+      "date": "2025/05/07"
+    },
+    {
+      "_id": "order134",
+      "type": "order",
+      "clientId": "16943042",
+      "employeeId": "691610631",
+      "drinksId": [
+        "298853715",
+        "82583939",
+        "231060709"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order135",
+      "type": "order",
+      "clientId": "913450813",
+      "employeeId": "909040899",
+      "drinksId": [
+        "669679528",
+        "491139768"
+      ],
+      "date": "2025/05/11"
+    },
+    {
+      "_id": "order136",
+      "type": "order",
+      "clientId": "10049164",
+      "employeeId": "182801953",
+      "drinksId": [
+        "329297209",
+        "329297209",
+        "313371262"
+      ],
+      "date": "2025/05/02"
+    },
+    {
+      "_id": "order137",
+      "type": "order",
+      "clientId": "252506217",
+      "employeeId": "534791626",
+      "drinksId": [
+        "333365835",
+        "333365835",
+        "298853715"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order138",
+      "type": "order",
+      "clientId": "907287404",
+      "employeeId": "909040899",
+      "drinksId": [
+        "1085898",
+        "901778792",
+        "298853715",
+        "698300788"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order139",
+      "type": "order",
+      "clientId": "17117112",
+      "employeeId": "182801953",
+      "drinksId": [
+        "901778792",
+        "313371262"
+      ],
+      "date": "2025/05/10"
+    },
+    {
+      "_id": "order140",
+      "type": "order",
+      "clientId": "639959420",
+      "employeeId": "609556746",
+      "drinksId": [
+        "329297209",
+        "901778792"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order141",
+      "type": "order",
+      "clientId": "827113045",
+      "employeeId": "675547247",
+      "drinksId": [
+        "21727080",
+        "333365835",
+        "930031527"
+      ],
+      "date": "2025/05/01"
+    },
+    {
+      "_id": "order142",
+      "type": "order",
+      "clientId": "309309041",
+      "employeeId": "695994254",
+      "drinksId": [
+        "469435304",
+        "298853715",
+        "231060709"
+      ],
+      "date": "2025/05/03"
+    },
+    {
+      "_id": "order143",
+      "type": "order",
+      "clientId": "235686700",
+      "employeeId": "350368616",
+      "drinksId": [
+        "669679528",
+        "329297209",
+        "930031527"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order144",
+      "type": "order",
+      "clientId": "837464033",
+      "employeeId": "676944782",
+      "drinksId": [
+        "228434336",
+        "669679528",
+        "489670579"
+      ],
+      "date": "2025/05/06"
+    },
+    {
+      "_id": "order145",
+      "type": "order",
+      "clientId": "607292725",
+      "employeeId": "691610631",
+      "drinksId": [
+        "944150467",
+        "313371262"
+      ],
+      "date": "2025/05/08"
+    },
+    {
+      "_id": "order146",
+      "type": "order",
+      "clientId": "80744373",
+      "employeeId": "609556746",
+      "drinksId": [
+        "901778792",
+        "329297209",
+        "621444653"
+      ],
+      "date": "2025/05/05"
+    },
+    {
+      "_id": "order147",
+      "type": "order",
+      "clientId": "20362164",
+      "employeeId": "534791626",
+      "drinksId": [
+        "390556526"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order148",
+      "type": "order",
+      "clientId": "602296231",
+      "employeeId": "695994254",
+      "drinksId": [
+        "706430157",
+        "706430157",
+        "930031527",
+        "1085898"
+      ],
+      "date": "2025/05/09"
+    },
+    {
+      "_id": "order149",
+      "type": "order",
+      "clientId": "913450813",
+      "employeeId": "893340407",
+      "drinksId": [
+        "491139768",
+        "369077955"
+      ],
+      "date": "2025/05/04"
+    },
+    {
+      "_id": "order150",
+      "type": "order",
+      "clientId": "252506217",
+      "employeeId": "676944782",
+      "drinksId": [
+        "621444653",
+        "621444653"
+      ],
+      "date": "2025/05/01"
+    }
+  ]
+}

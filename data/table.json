@@ -1,0 +1,104 @@
+{
+    "docs": [
+        {
+            "_id": "182606696",
+            "type": "table",
+            "capacity": 3
+        },
+        {
+            "_id": "141655337",
+            "type": "table",
+            "capacity": 9
+        },
+        {
+            "_id": "944273942",
+            "type": "table",
+            "capacity": 5
+        },
+        {
+            "_id": "164672816",
+            "type": "table",
+            "capacity": 6
+        },
+        {
+            "_id": "225375730",
+            "type": "table",
+            "capacity": 10
+        },
+        {
+            "_id": "891481292",
+            "type": "table",
+            "capacity": 4
+        },
+        {
+            "_id": "61725657",
+            "type": "table",
+            "capacity": 5
+        },
+        {
+            "_id": "852313161",
+            "type": "table",
+            "capacity": 3
+        },
+        {
+            "_id": "399717961",
+            "type": "table",
+            "capacity": 7
+        },
+        {
+            "_id": "121596035",
+            "type": "table",
+            "capacity": 3
+        },
+        {
+            "_id": "382083294",
+            "type": "table",
+            "capacity": 10
+        },
+        {
+            "_id": "581926088",
+            "type": "table",
+            "capacity": 7
+        },
+        {
+            "_id": "500547215",
+            "type": "table",
+            "capacity": 4
+        },
+        {
+            "_id": "245066698",
+            "type": "table",
+            "capacity": 8
+        },
+        {
+            "_id": "339715872",
+            "type": "table",
+            "capacity": 2
+        },
+        {
+            "_id": "191162380",
+            "type": "table",
+            "capacity": 2
+        },
+        {
+            "_id": "897896535",
+            "type": "table",
+            "capacity": 9
+        },
+        {
+            "_id": "965529755",
+            "type": "table",
+            "capacity": 6
+        },
+        {
+            "_id": "253498804",
+            "type": "table",
+            "capacity": 3
+        },
+        {
+            "_id": "484717733",
+            "type": "table",
+            "capacity": 9
+        }
+    ]
+}

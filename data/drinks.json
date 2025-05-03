@@ -1,33 +1,200 @@
 {
-    "docs": [
-      {
-        "_id": "drink1",
-        "type": "drink",
-        "name": "Mojito",
-        "category": "cocktail",
-        "price": 10
-      },
-      {
-        "_id": "drink2",
-        "type": "drink",
-        "name": "Bière blonde",
-        "category": "bière",
-        "price": 6
-      },
-      {
-        "_id": "drink3",
-        "type": "drink",
-        "name": "Vodka Redbull",
-        "category": "cocktail",
-        "price": 12
-      },
-      {
-        "_id": "drink4",
-        "type": "drink",
-        "name": "Whisky Coca",
-        "category": "cocktail",
-        "price": 11
-      }
-    ]
-  }
-  
+  "docs": [
+    {
+      "_id": "491139768",
+      "type": "drink",
+      "name": "Guinness",
+      "category": "beer",
+      "price": 20
+    },
+    {
+      "_id": "313371262",
+      "type": "drink",
+      "name": "Budweiser",
+      "category": "beer",
+      "price": 6
+    },
+    {
+      "_id": "390556526",
+      "type": "drink",
+      "name": "Heineken 50cl",
+      "category": "beer",
+      "price": 13
+    },
+    {
+      "_id": "333365835",
+      "type": "drink",
+      "name": "Mojito",
+      "category": "cocktail",
+      "price": 11
+    },
+    {
+      "_id": "669679528",
+      "type": "drink",
+      "name": "Whiskey Sour",
+      "category": "cocktail",
+      "price": 11
+    },
+    {
+      "_id": "231060709",
+      "type": "drink",
+      "name": "Corona",
+      "category": "beer",
+      "price": 10
+    },
+    {
+      "_id": "228434336",
+      "type": "drink",
+      "name": "Pabst Red Ribbon",
+      "category": "beer",
+      "price": 12
+    },
+    {
+      "_id": "944150467",
+      "type": "drink",
+      "name": "Blow Job",
+      "category": "shooter",
+      "price": 12
+    },
+    {
+      "_id": "643062040",
+      "type": "drink",
+      "name": "Prairie Fire",
+      "category": "shooter",
+      "price": 12
+    },
+    {
+      "_id": "706430157",
+      "type": "drink",
+      "name": "Daiquiri",
+      "category": "cocktail",
+      "price": 12
+    },
+    {
+      "_id": "135944551",
+      "type": "drink",
+      "name": "Beck's",
+      "category": "beer",
+      "price": 3
+    },
+    {
+      "_id": "329297209",
+      "type": "drink",
+      "name": "Bloody Mary",
+      "category": "cocktail",
+      "price": 13
+    },
+    {
+      "_id": "458895667",
+      "type": "drink",
+      "name": "Blue Moon",
+      "category": "beer",
+      "price": 19
+    },
+    {
+      "_id": "298853715",
+      "type": "drink",
+      "name": "Stella Artois",
+      "category": "beer",
+      "price": 11
+    },
+    {
+      "_id": "729278242",
+      "type": "drink",
+      "name": "Old Fashioned",
+      "category": "cocktail",
+      "price": 10
+    },
+    {
+      "_id": "1085898",
+      "type": "drink",
+      "name": "Cosmopolitan",
+      "category": "cocktail",
+      "price": 8
+    },
+    {
+      "_id": "489670579",
+      "type": "drink",
+      "name": "Miller Lite",
+      "category": "beer",
+      "price": 9
+    },
+    {
+      "_id": "698128595",
+      "type": "drink",
+      "name": "Coors Light",
+      "category": "beer",
+      "price": 17
+    },
+    {
+      "_id": "698300788",
+      "type": "drink",
+      "name": "B-52",
+      "category": "shooter",
+      "price": 8
+    },
+    {
+      "_id": "930031527",
+      "type": "drink",
+      "name": "Jaegerbomb",
+      "category": "shooter",
+      "price": 20
+    },
+    {
+      "_id": "621444653",
+      "type": "drink",
+      "name": "Corona",
+      "category": "beer",
+      "price": 10
+    },
+    {
+      "_id": "82583939",
+      "type": "drink",
+      "name": "Martini",
+      "category": "cocktail",
+      "price": 15
+    },
+    {
+      "_id": "502412910",
+      "type": "drink",
+      "name": "Heineken",
+      "category": "beer",
+      "price": 11
+    },
+    {
+      "_id": "21727080",
+      "type": "drink",
+      "name": "Mojito Fraise",
+      "category": "cocktail",
+      "price": 7
+    },
+    {
+      "_id": "469435304",
+      "type": "drink",
+      "name": "Kamikaze",
+      "category": "shooter",
+      "price": 3
+    },
+    {
+      "_id": "901778792",
+      "type": "drink",
+      "name": "Budweiser 50cl",
+      "category": "beer",
+      "price": 16
+    },
+    {
+      "_id": "369077955",
+      "type": "drink",
+      "name": "Negroni",
+      "category": "cocktail",
+      "price": 12
+    },
+    {
+      "_id": "19501749",
+      "type": "drink",
+      "name": "Pabst Blue Ribbon",
+      "category": "beer",
+      "price": 12
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "docs": [
+    {
+      "_id": "182801953",
+      "type": "employee",
+      "name": "Bondy Chambers",
+      "salary": 1532,
+      "role": "Bartender"
+    },
+    {
+      "_id": "676944782",
+      "type": "employee",
+      "name": "Curr Milverton",
+      "salary": 2814,
+      "role": "DJ"
+    },
+    {
+      "_id": "691610631",
+      "type": "employee",
+      "name": "Anatollo Westney",
+      "salary": 1476,
+      "role": "VIP Host"
+    },
+    {
+      "_id": "534791626",
+      "type": "employee",
+      "name": "Yevette Searles",
+      "salary": 1221,
+      "role": "Security Manager"
+    },
+    {
+      "_id": "675547247",
+      "type": "employee",
+      "name": "Barby Bosket",
+      "salary": 2672,
+      "role": "Floor Manager"
+    },
+    {
+      "_id": "909040899",
+      "type": "employee",
+      "name": "Darsey MacBarron",
+      "salary": 2458,
+      "role": "Promoter"
+    },
+    {
+      "_id": "609556746",
+      "type": "employee",
+      "name": "Ashby Nolton",
+      "salary": 1699,
+      "role": "Event Coordinator"
+    },
+    {
+      "_id": "350368616",
+      "type": "employee",
+      "name": "Stacia Lummus",
+      "salary": 1895,
+      "role": "Sound Engineer"
+    },
+    {
+      "_id": "893340407",
+      "type": "employee",
+      "name": "Florry Elnor",
+      "salary": 2336,
+      "role": "Bottle Service Host"
+    },
+    {
+      "_id": "695994254",
+      "type": "employee",
+      "name": "Galvin Aspinell",
+      "salary": 2982,
+      "role": "Doorman"
+    }
+  ]
+}

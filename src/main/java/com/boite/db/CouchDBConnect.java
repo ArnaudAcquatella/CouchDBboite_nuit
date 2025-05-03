@@ -7,12 +7,12 @@ import com.cloudant.client.api.Database;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class CouchDBClient {
+public class CouchDBConnect {
 
     private final CloudantClient client;
     private final Database db;
 
-    public CouchDBClient() throws MalformedURLException {
+    public CouchDBConnect() throws MalformedURLException {
         client = ClientBuilder
                 .url(new URL("http://127.0.0.1:5984"))
                 .username("admin")
@@ -20,7 +20,7 @@ public class CouchDBClient {
                 .build();
         db = client.database("boite_nuit", true); // true pour créer la DB si elle n'existe pas
     }
-    
+
     public Database getDb() {
         return db;
     }

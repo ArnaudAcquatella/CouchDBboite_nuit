@@ -1,5 +1,6 @@
 com\boite\CRUD\OrderRepository.class
 com\boite\CRUD\ClientRepository.class
+com\boite\db\CouchDBConnect.class
 com\boite\Main.class
 com\boite\model\Event.class
 com\boite\CRUD\EventRepository.class
@@ -14,4 +15,3 @@ com\boite\model\Drink.class
 com\boite\model\Reservation.class
 com\boite\CRUD\EmployeeRepository.class
 com\boite\db\DesignDocBuilder.class
-com\boite\db\CouchDBClient.class

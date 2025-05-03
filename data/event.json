@@ -1,0 +1,129 @@
+{
+  "docs": [
+    {
+      "_id": "409009225",
+      "type": "event",
+      "name": "Berghain"
+    },
+    {
+      "_id": "720705338",
+      "type": "event",
+      "name": "Fabric London"
+    },
+    {
+      "_id": "750006979",
+      "type": "event",
+      "name": "Space Ibiza"
+    },
+    {
+      "_id": "13551494",
+      "type": "event",
+      "name": "Zouk Singapore"
+    },
+    {
+      "_id": "486557762",
+      "type": "event",
+      "name": "Hakkasan Las Vegas"
+    },
+    {
+      "_id": "765209523",
+      "type": "event",
+      "name": "Pacha Ibiza"
+    },
+    {
+      "_id": "944002066",
+      "type": "event",
+      "name": "LIV Miami"
+    },
+    {
+      "_id": "359675268",
+      "type": "event",
+      "name": "XS Las Vegas"
+    },
+    {
+      "_id": "969482522",
+      "type": "event",
+      "name": "Ministry of Sound"
+    },
+    {
+      "_id": "37013294",
+      "type": "event",
+      "name": "Omnia Las Vegas"
+    },
+    {
+      "_id": "230687738",
+      "type": "event",
+      "name": "Amnesia Ibiza"
+    },
+    {
+      "_id": "931030172",
+      "type": "event",
+      "name": "Ushuaïa Ibiza"
+    },
+    {
+      "_id": "713380699",
+      "type": "event",
+      "name": "Green Valley Brazil"
+    },
+    {
+      "_id": "172156415",
+      "type": "event",
+      "name": "Marquee New York"
+    },
+    {
+      "_id": "15042054",
+      "type": "event",
+      "name": "Tomorrowland"
+    },
+    {
+      "_id": "549076168",
+      "type": "event",
+      "name": "Printworks London"
+    },
+    {
+      "_id": "720991213",
+      "type": "event",
+      "name": "Echostage DC"
+    },
+    {
+      "_id": "807149536",
+      "type": "event",
+      "name": "Elrow Barcelona"
+    },
+    {
+      "_id": "275218741",
+      "type": "event",
+      "name": "Output Brooklyn"
+    },
+    {
+      "_id": "492954413",
+      "type": "event",
+      "name": "DC10 Ibiza"
+    },
+    {
+      "_id": "342570934",
+      "type": "event",
+      "name": "Warehouse Project Manchester"
+    },
+    {
+      "_id": "326637143",
+      "type": "event",
+      "name": "Watergate Berlin"
+    },
+    {
+      "_id": "358000100",
+      "type": "event",
+      "name": "Stereo Montreal"
+    },
+    {
+      "_id": "706326619",
+      "type": "event",
+      "name": "Womb Tokyo"
+    },
+    {
+      "_id": "956158722",
+      "type": "event",
+      "name": "Bassiani Tbilisi"
+    }
+  ]
+}

@@ -2,7 +2,6 @@ I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\CRUD\OrderRepository.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\model\Locker.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\CRUD\EmployeeRepository.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\model\Client.java
-I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\db\CouchDBClient.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\model\Event.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\CRUD\ClientRepository.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\db\DesignDocBuilder.java
@@ -14,4 +13,5 @@ I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\Main.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\model\Employee.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\service\NightClubService.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\model\Table.java
+I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\db\CouchDBConnect.java
 I:\CouchDB\boite-nuit-couchdb\src\main\java\com\boite\model\Order.java
