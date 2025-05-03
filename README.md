@@ -33,7 +33,7 @@ boite-nuit-couchdb/
 │   ├── main/java/com/boite/
 │   │   ├── model/          # Entités (Client, Order, etc.)
 │   │   ├── service/        # Logique métier (NightClubService)
-│   │   ├── CRUD/     # Méthodes CRUD pour chaque entité
+│   │   ├── CRUD/           # Méthodes CRUD pour chaque entité
 │   │   ├── db/             # Connexion et design docs CouchDB
 │   └── Main.java           # Point d'entrée
 ├── pom.xml                 # Dépendances Maven
@@ -46,15 +46,21 @@ boite-nuit-couchdb/
 ## 📦 Lancer le projet
 
 1. **Configurer CouchDB / Cloudant**
-   - Créer la base : `boite_nuit`
+    - Télécharger CouchDB:
+        https://couchdb.apache.org/#download
+    - Une interface de visualisation de la base est disponible sur Fauxton:
+        http://127.0.0.1:5984/_utils/#login
+    
+2. **Configurer CouchDB / Cloudant**
+   - Créer la base : `boite_nuit` (L'execution du projet la créé si elle n'existe pas encore)
    - Créer un utilisateur + mot de passe
 
-2. **Modifier la configuration dans `CouchDBClient.java`**
+3. **Modifier la configuration dans `CouchDBClient.java`**
    ```java
    new CloudantClient("http", "localhost", 5984, "username", "password");
    ```
 
-3. **Lancer l'app :**
+4. **Lancer l'app :**
 
 ```bash
 mvn clean compile
