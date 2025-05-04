@@ -32,13 +32,12 @@ boite-nuit-couchdb/
 ├── src/
 │   ├── main/java/com/boite/
 │   │   ├── model/          # Entités (Client, Order, etc.)
-│   │   ├── service/        # Logique métier (NightClubService)
+│   │   ├── service/        # Logique requêtes (NightClubService)
 │   │   ├── CRUD/           # Méthodes CRUD pour chaque entité
-│   │   ├── db/             # Connexion et design docs CouchDB
+│   │   └── db/             # Connexion et design docs CouchDB
 │   └── Main.java           # Point d'entrée
 ├── pom.xml                 # Dépendances Maven
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
@@ -46,6 +45,10 @@ boite-nuit-couchdb/
 ## 📦 Lancer le projet
 
 1. **Configurer CouchDB / Cloudant**
+    - Télécharger Maven:
+        https://maven.apache.org/download.cgi
+      Les instructions d'installation sont disponible ici:
+        https://maven.apache.org/install.html
     - Télécharger CouchDB:
         https://couchdb.apache.org/#download
     - Une interface de visualisation de la base est disponible sur Fauxton:
@@ -55,29 +58,16 @@ boite-nuit-couchdb/
    - Créer la base : `boite_nuit` (L'execution du projet la créé si elle n'existe pas encore)
    - Créer un utilisateur + mot de passe
 
-3. **Modifier la configuration dans `CouchDBClient.java`**
+3. **Modifier la configuration dans `CouchDBConnect.java`**
    ```java
-   new CloudantClient("http", "localhost", 5984, "username", "password");
+   public CouchDBConnect() throws MalformedURLException {
+        client = ClientBuilder
+                .url(new URL("http://127.0.0.1:5984"))
+                .username("admin")
+                .password("admin")
+                .build();
+        db = client.database("boite_nuit", true);
    ```
-
-4. **Lancer l'app :**
-
-```bash
-mvn clean compile
-mvn exec:java -Dexec.mainClass="com.boite.Main"
-```
-
----
-
-## 🔍 Exemples de requêtes
-
-- Nombre de commandes par boisson (MapReduce)
-- Nombre de réservations par événement (MapReduce)
-- Réservations d’un client (Mango)
-- Commandes servies par un employé (MapReduce avec filtrage)
-- Recherche de boissons par catégorie ou prix (Mango)
-
----
 
 ## 📤 Importer des données
 
@@ -90,10 +80,28 @@ curl -X POST -u user:pass http://localhost:5984/boite_nuit/_bulk_docs \
   -d @generated_orders.json
 ```
   
-Sur Windows:
+Sur Windows, se placer dans le dossier boite-nuit-couchdb puis:
 ```
   for %f in (data\*.json) do curl -X POST http://127.0.0.1:5984/boite_nuit/_bulk_docs -H "Content-Type: application/json" -u admin:admin -d @%f
 ```
+---
+
+4. **Lancer l'app :**
+
+```bash
+mvn clean compile
+mvn exec:java
+```
+
+---
+
+## 🔍 Exemples de requêtes
+
+- Nombre de commandes par boisson (MapReduce)
+- Nombre de réservations par événement (MapReduce)
+- Réservations d’un client (Mango)
+- Commandes servies par un employé (MapReduce avec filtrage)
+- Recherche de boissons par catégorie ou prix (Mango)
 
 ---
 
